@@ -1,5 +1,9 @@
-### Hi there 👋
+### :octocat: Hi there 
 
+- 🌱 I’m currently learning ***java modular、groovy、C***
+- :cn: I’m currently working on Beijing
+- 😄 Pronouns: caddy
+- ⚡ Fun fact: :computer:
 <!--
 **bougainvilleas/bougainvilleas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
